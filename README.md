@@ -1,10 +1,9 @@
 
 # Collecting-english-words
-The words we practiced while working are collected here. Each word has an English meaning and comes with two examples. An example is related to learning time and an example is given from Longman or Google Translate. This will collect all the words and also make them learn better.
 
 |word|synonym|example1|example2|
 |----|----|----|----|
-|cramp|a severe  pain that you get in part of your body when a muscle becomes too tight, making it difficult for you to move that part of your body|the swimmer suddently got cromps.|Several players were suffering from cramp.|
+|cramp|a severe  pain that you get in part of your body when a muscle becomes too tight, making it difficult for you to move that part of your body|the swimmer suddently got cramp.|Several players were suffering from cramp.|
 |vimit|to bring food or drink up from your stomach out through your mouth, because you are ill|the food poisoning caused crapms and vimitting.|He had swallowed so much sea water he wanted to vomit.|
 |courier|a person or company that is paid to take packages somewhere|the company sent the package across twon by courier.|Several players were suffering from cramp.|
 |sweet|containing or having a taste like sugar|her bedroom is small , but it's so sweet.|This tea is too sweet.|
@@ -18,6 +17,17 @@ The words we practiced while working are collected here. Each word has an Englis
 |take off|to have a holiday from work on a particular day, or for a particular length of time|can you really afford to take a month off from work.|Dad took the day off to come with me.|
 |babble|to speak quickly in a way that is difficult to understand or sounds silly|I can't lesten to her constant babble.|Don't pay any attention to her - she's just babbling.|
 |afford|have enough money to pay for.| provide or supply (an opportunity or facility)|I can't afford such an expensive car.|The window affords a beautiful view out over the city.|
-|||||
-|||||
-|||||
+|brilliant|brilliant light or colour is very bright and strong|She closed her eyes against the brilliant light.!|We sat outside in the brilliant sunshine.!
+|bribe| to illegally give someone, especially a public official, money or a gift in order to persuade them to do something for you|He tried to bribe the judge.|Sam wouldn’t do her homework until I bribed her with ice cream.|
+circumstance|the conditions that affect a situation, action, event etc!What were the circumstance of his arrest.!The Soviet Union had been forced by circumstances to sign a pact with Nazi Germany.!
+fault|if something bad that has happened is your fault, you should be blamed for it, because you made a mistake or failed to do something|it wasn't his fault.|I’m really sorry – it’s all my fault.|
+victim|someone who has been attacked, robbed, or murdered|he was a victim of circumstance.|The victim received head injuries from which she died a week later.|
+claim| to state that something is true, even though it has not been proved|His brother still a claim on the property.|The product claims that it can make you thin without dieting.|
+consume|to use time, energy, goods etc|If you want to lose more weight consume fewer colories.|Only 27% of the paper we consume is recycled|
+
+
+
+
+
+
+
