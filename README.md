@@ -5,8 +5,7 @@
 |----|----|----|----|
 |cramp|a severe  pain that you get in part of your body when a muscle becomes too tight, making it difficult for you to move that part of your body|the swimmer suddently got cramp.|Several players were suffering from cramp.|
 |vimit|to bring food or drink up from your stomach out through your mouth, because you are ill|the food poisoning caused crapms and vimitting.|He had swallowed so much sea water he wanted to vomit.|
-|courier|a person or company that is paid to take packages somewhere|the company sent the package across twon by courier.|Several players were suffering from cramp.|
-|sweet|containing or having a taste like sugar|her bedroom is small , but it's so sweet.|This tea is too sweet.|
+|courier|a person or company that is paid to take packages somewhere|the company sent the package across twon by courier.|A courier arrived with the documents just before the meeting.|
 |cozy \| cosy|a place that is cosy is small, comfortable, and warm|her bedroom is small , but it's so sweet and cozy.|The living room was warm and cosy.|
 |deprive|deny (a person or place) the possession or use of something.|we were deprived of a good harvest because ot the lack of the rain.|
 |conduct|to carry out a particular activity or process, especially in order to get information or prove facts|the purpose of conducting a bussiness is to make money.|We are conducting a survey of consumer attitudes towards organic food.|
