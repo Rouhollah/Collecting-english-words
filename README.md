@@ -18,7 +18,7 @@
 |afford|have enough money to pay for.| provide or supply (an opportunity or facility)|I can't afford such an expensive car.|The window affords a beautiful view out over the city.|
 |brilliant|brilliant light or colour is very bright and strong|She closed her eyes against the brilliant light.!|We sat outside in the brilliant sunshine.!
 |bribe| to illegally give someone, especially a public official, money or a gift in order to persuade them to do something for you|He tried to bribe the judge.|Sam wouldn’t do her homework until I bribed her with ice cream.|
-circumstance|the conditions that affect a situation, action, event etc!What were the circumstance of his arrest.!The Soviet Union had been forced by circumstances to sign a pact with Nazi Germany.!
+circumstance|the conditions that affect a situation, action, event etc|What were the circumstance of his arrest.|The Soviet Union had been forced by circumstances to sign a pact with Nazi Germany.|
 fault|if something bad that has happened is your fault, you should be blamed for it, because you made a mistake or failed to do something|it wasn't his fault.|I’m really sorry – it’s all my fault.|
 victim|someone who has been attacked, robbed, or murdered|he was a victim of circumstance.|The victim received head injuries from which she died a week later.|
 claim| to state that something is true, even though it has not been proved|His brother still a claim on the property.|The product claims that it can make you thin without dieting.|
