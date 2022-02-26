@@ -23,6 +23,26 @@ fault|if something bad that has happened is your fault, you should be blamed�
 victim|someone who has been attacked, robbed, or murdered|he was a victim of circumstance.|The victim received head injuries from which she died a week later.|
 claim| to state that something is true, even though it has not been proved|His brother still a claim on the property.|The product claims that it can make you thin without dieting.|
 consume|to use time, energy, goods etc|If you want to lose more weight consume fewer colories.|Only 27% of the paper we consume is recycled|
+cling| to hold someone or something tightly, especially because you do not feel safe|The pages of this book have clung together.|He wailed and clung to his mother.|
+coercion|the use of threats or orders to make someone do something they do not want to do|He paied the money under coercion.|The defendant explained that he had been acting under coercion.|
+commend| to tell someone that something is good or that it deserves attention |Her painting won a commendation for the teacher.|Colleagues, I commend this report to you.|
+contaminate| to make a place or substance dirty or harmful by putting something such as chemicals or poison in it|Chemicals are contaminating the water supply.|radioactive contamination|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
