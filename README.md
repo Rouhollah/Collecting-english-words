@@ -27,6 +27,28 @@ cling| to hold someone or something tightly, especially because you do not feel
 coercion|the use of threats or orders to make someone do something they do not want to do|He paied the money under coercion.|The defendant explained that he had been acting under coercion.|
 commend| to tell someone that something is good or that it deserves attention |Her painting won a commendation for the teacher.|Colleagues, I commend this report to you.|
 contaminate| to make a place or substance dirty or harmful by putting something such as chemicals or poison in it|Chemicals are contaminating the water supply.|radioactive contamination|
+correlation|a connection between two ideas, facts etc, especially when one may be the cause of the other|there is a strong correlation between imcome and education|a strong correlation between urban deprivation and poor health|
+defy|to refuse to obey a law or rule, or refuse to do what someone in authority tells you to do|it's worng to defy the orders of superior officer.|Billy defied his mother, and smoked openly in the house.|
+superior| better, more powerful, more effective etc than a similar person or thing, especially one that you are competing against |Your computer is far superior to mine.|Fletcher’s superior technique brought him victory.|
+decontaminate|to remove a dangerous substance from somewhere|it also helps decontaminate water and reduce the impact of floods.|It may cost over $5 million to decontaminate the whole site.|
+impact|the effect or influence that an event, situation etc has on someone or something|We need to assess the impact on climate change.|an international meeting to consider the environmental impacts of global warming|
+intention|a plan or desire to do something |you have the intention permanently to deprive me of the gasoline.|I have no intention of retiring just yet.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
