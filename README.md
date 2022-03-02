@@ -33,6 +33,16 @@ superior| better, more powerful, more effective etc than a similar person 
 decontaminate|to remove a dangerous substance from somewhere|it also helps decontaminate water and reduce the impact of floods.|It may cost over $5 million to decontaminate the whole site.|
 impact|the effect or influence that an event, situation etc has on someone or something|We need to assess the impact on climate change.|an international meeting to consider the environmental impacts of global warming|
 intention|a plan or desire to do something |you have the intention permanently to deprive me of the gasoline.|I have no intention of retiring just yet.|
+lucid|expressed in a way that is clear and easy to understand|after finishing , she became lucid ,recognizedhim , agreed him.|You must write in a clear and lucid style.|
+lure|to persuade someone to do something, especially something wrong or dangerous, by making it seem attractive or exciting|cheese is realy good lure for mice.|People may be lured into buying tickets by clever advertising.|
+
+
+
+
+
+
+
+
 
 
 
