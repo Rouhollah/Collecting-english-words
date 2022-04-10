@@ -42,8 +42,6 @@ discreet| careful about what you say or do, so that you do not offend, upset
 evacuate| to send people away from a dangerous place to a safe place|the official ordered the residents to evacuate.|During the war he was evacuated to Scotland.|
 stroke|if someone has a stroke, an artery (=tube carrying blood) in their brain suddenly bursts or becomes blocked, so that they may die or be unable to use some muscles|they intended to devastate the tower at a stroke.|I looked after my father after he had a stroke.|
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
-
-
 dszcfsdaf | sdfgdsfgsdfgsd | sdfgsdfgsd | sdxfgdsfgdsf
 
 
