@@ -43,6 +43,7 @@ evacuate| to send people away from a dangerous place to a safe place|the 
 stroke|if someone has a stroke, an artery (=tube carrying blood) in their brain suddenly bursts or becomes blocked, so that they may die or be unable to use some muscles|they intended to devastate the tower at a stroke.|I looked after my father after he had a stroke.|
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
 beams | a long heavy piece of wood or metal used in building houses, bridges etc | Workers used steal beams to brace the roof. | Her head hit the beam and she slid down and hit her shoulder.
+brace | brace yourself, to make something stronger by supporting it  | The carpenter uses a brace to hold pieces of wood in place | Nancy braced herself for the inevitable arguments..
 
 
 
