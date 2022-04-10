@@ -2,7 +2,7 @@
 # Collecting-english-words
 
 |word|synonym|example1|example2|
-|----|----|----|----|
+|---|---|---|---|
 |cramp|a severe  pain that you get in part of your body when a muscle becomes too tight, making it difficult for you to move that part of your body|the swimmer suddently got cramp.|Several players were suffering from cramp.|
 |vimit|to bring food or drink up from your stomach out through your mouth, because you are ill|the food poisoning caused crapms and vimitting.|He had swallowed so much sea water he wanted to vomit.|
 |courier|a person or company that is paid to take packages somewhere|the company sent the package across twon by courier.|A courier arrived with the documents just before the meeting.|
@@ -42,10 +42,15 @@ discreet| careful about what you say or do, so that you do not offend, upset
 evacuate| to send people away from a dangerous place to a safe place|the official ordered the residents to evacuate.|During the war he was evacuated to Scotland.|
 stroke|if someone has a stroke, an artery (=tube carrying blood) in their brain suddenly bursts or becomes blocked, so that they may die or be unable to use some muscles|they intended to devastate the tower at a stroke.|I looked after my father after he had a stroke.|
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
-beams | a long heavy piece of wood or metal used in building houses, bridges etc | Workers used steal beams to brace the roof. | Her head hit the beam and she slid down and hit her shoulder.
+beam | a long heavy piece of wood or metal used in building houses, bridges etc | Workers used steal beams to brace the roof. | Her head hit the beam and she slid down and hit her shoulder.
 brace | brace yourself, to make something stronger by supporting it  | The carpenter uses a brace to hold pieces of wood in place | Nancy braced herself for the inevitable arguments.
 classy | stylish and sophisticated.  | She took us to a very classy seafood restaurant in the old part of the city | The hotel is classy but relaxed.
 consolation | the comfort received by a person after a loss or disappointment.  | your company has been a great consolation to me. | The Church was the main consolation in a short and hard life.
+successor | someone who takes a job or position previously held by someone else | the chairman has designed her as his successor | His successor died after only 15 months in office.
+subtle |  not easy to notice or understand unless you pay careful attention | you have to be some more subtle with people.| The pictures are similar, but there are subtle differences between them.
+stubborn|determined not to change your mind, even when people think you are being unreasonable|he was too stubborn to admit that he was worng| Why are you so stubborn?
+admit|to agree unwillingly that something is true or that someone else is right|You may not like her, but you have to admit that she’s good at her job.|I must admit, I didn’t actually do anything to help her.
+spare|not being used or not needed at the present time|we have a spare in the trunk.| a spare bass guitar line.
 
 
 
