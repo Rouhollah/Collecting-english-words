@@ -42,6 +42,39 @@ discreet| careful about what you say or do, so that you do not offend, upset
 evacuate| to send people away from a dangerous place to a safe place|the official ordered the residents to evacuate.|During the war he was evacuated to Scotland.|
 stroke|if someone has a stroke, an artery (=tube carrying blood) in their brain suddenly bursts or becomes blocked, so that they may die or be unable to use some muscles|they intended to devastate the tower at a stroke.|I looked after my father after he had a stroke.|
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
+excit|making you feel excited|making you feel excited|an exciting discovery
+interest|	if you have an interest in something or someone, you want to know or learn more about them	|the song is interesting.|	My parents encouraged my interest in science.
+frightened|	feeling afraid|	the were frightened by the frightening noises from upstaires|	Don’t be frightened. We’re not going to hurt you.
+bore|	to make someone feel bored, especially by talking too much about something they are not interested in|	my friend is boring.|	He’s the sort of person who bores you at parties.
+confuse|	 to make someone feel that they cannot think clearly or do not understand|	I am conused.|	I understand the text but the diagrams are confusing me.
+shock|	if something that happens is a shock, you did not expect it, and it makes you feel very surprised, and usually upset|	I was shocked because the accident was shocking.|	The news of his death came as a great shock to everyone.
+manifest|	 to show a feeling, attitude etc|	he tried to manifest hos love through deeds rathe than words.|	The shareholders have manifested their intention to sell the shares.
+crucial|	something that is crucial is extremely important, because everything else depends on it|	he wasn't there at the crucial moment.|	This aid money is crucial to the government’s economic policies.
+regret|	to feel sorry about something you have done and wish you had not done it|	you'll regret that hasty remark.| I regret that we are not able to hire you at this time	
+hasty|	done in a hurry, especially with bad results|	don't make any hasty judgments.|He soon regretted his hasty decision.
+proposal|	a plan or suggestion which is made formally to an official person or group, or the act of making it |	the proposal to build a new bridge.|	the government’s proposals for regulation of the industry
+led to|	|	their love led to marriage.	
+blame|	 to say or think that someone or something is responsible for something bad|	the team blamed its loss on bad luck|	Don’t blame me – it’s not my fault.
+blow|	 if the wind or a current of air blows, it moves|	the wind blew.| the nail in the road blew my tire.	A cold breeze was blowing hard.
+blink|	to shut and open your eyes quickly	|we saw aireplane light blinking across the night sky.|	I blinked as I came out into the sunlight.
+guilt|	a strong feeling of shame and sadness because you know that you have done something wrong|	we have abundant proof of his guilt.|	He used to buy them expensive presents, out of guilt.
+abundant|	something that is abundant exists or is available in large quantities so that there is more than enough|	Gilan province is famous for its abundant agriculture resources.|	an abundant supply of fresh water
+witness|	 someone who sees a crime or an accident and can describe what happened	|your actions winess your guilt.|	Police have appealed for witnesses to come forward.
+gossip|	 information that is passed from one person to another about other people’s behaviour and private lives, often including unkind or untrue remarks|	she was the worst gossip in our country.	|Here’s an interesting piece of gossip about Mrs Smith.
+preacher|	someone who talks about a religious subject in a public place, especially at a church	|that preacher skips from one subject to another.|	The preacher turned his volume up
+oversee|	to be in charge of a group of workers and check that a piece of work is done satisfactorily	|you must employe someone to oversee the project.	|A team leader was appointed to oversee the project.
+appoint|	to choose someone for a position or a job|	a committee has been appointed to oversee the work.|	officials appointed by the government
+palate|	the sense of taste, and especially your ability to enjoy or judge food|	she has a fine palate for poerty.|	a collection of dishes to tempt your palate
+impenetrable => penetrate|	 impossible to get through, see through, or get into|	the care was narrow and impenetrable by humans.|	The trees formed a dark and impenetrable barrier.
+inform	| to officially tell someone about something or give them information|	he informed us of the news.	|They decided to inform the police
+deleterious|	damaging or harmful	|children should be informed of the deleterious effects of alcolol.|	the deleterious effects of smoking
+involve|	if an activity or situation involves something, that thing is part of it or a result of it.|	were involved in the project.|	What will the job involve?
+nonsense|	 ideas, opinions, statements etc that are not true or that seem very stupid	|she sometimes talks nonsense in her sleep.|	all this nonsense about health foods
+obsess|	if something or someone obsesses you, you think or worry about them all the time and you cannot think about anything else – used to show disapproval|	he was obsessed with american gangester movies. |	A lot of young girls are obsessed by their weight.
+abide|	accept or act in accordance with (a rule, decision, or recommendation).|	that memory will abide in mind forever.|	 Agreement to abide by the laws of the land is not enough
+accomplish|	to succeed in doing something, especially after trying very hard|	he accomplished the dangerous mission|	We have accomplished all we set out to do.
+accompany|	to go somewhere with someone|	Ali agreed to accompany me on a trip to africa.|	Children under 14 must be accompanied by an adult.
+abroad|	 in or to a foreign country|	more people are going abroad for vacation.|	I’ve never lived abroad before.
 beam | a long heavy piece of wood or metal used in building houses, bridges etc | Workers used steal beams to brace the roof. | Her head hit the beam and she slid down and hit her shoulder.
 brace | brace yourself, to make something stronger by supporting it  | The carpenter uses a brace to hold pieces of wood in place | Nancy braced herself for the inevitable arguments.
 classy | stylish and sophisticated.  | She took us to a very classy seafood restaurant in the old part of the city | The hotel is classy but relaxed.
