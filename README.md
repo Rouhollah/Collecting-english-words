@@ -46,6 +46,8 @@ beams | a long heavy piece of wood or metal used in building houses, bridges etc
 brace | brace yourself, to make something stronger by supporting it  | The carpenter uses a brace to hold pieces of wood in place | Nancy braced herself for the inevitable arguments.
 classy | stylish and sophisticated.  | She took us to a very classy seafood restaurant in the old part of the city | 
 The hotel is classy but relaxed.
+consolation | the comfort received by a person after a loss or disappointment.  | your company has been a great consolation to me. | 
+The Church was the main consolation in a short and hard life.
 
 
 
