@@ -44,8 +44,7 @@ stroke|if someone has a stroke, an artery (=tube carrying blood) in their br
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
 beams | a long heavy piece of wood or metal used in building houses, bridges etc | Workers used steal beams to brace the roof. | Her head hit the beam and she slid down and hit her shoulder.
 brace | brace yourself, to make something stronger by supporting it  | The carpenter uses a brace to hold pieces of wood in place | Nancy braced herself for the inevitable arguments.
-classy | stylish and sophisticated.  | She took us to a very classy seafood restaurant in the old part of the city | 
-The hotel is classy but relaxed.
+classy | stylish and sophisticated.  | She took us to a very classy seafood restaurant in the old part of the city | The hotel is classy but relaxed.
 consolation | the comfort received by a person after a loss or disappointment.  | your company has been a great consolation to me. | The Church was the main consolation in a short and hard life.
 
 
