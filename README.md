@@ -44,6 +44,9 @@ stroke|if someone has a stroke, an artery (=tube carrying blood) in their br
 flock| a group of sheep, goats, or birds|he keeps a flock of sheeps.|a flock of small birds
 
 
+dszcfsdaf | sdfgdsfgsdfgsd | sdfgsdfgsd | sdxfgdsfgdsf
+
+
 
 
 
