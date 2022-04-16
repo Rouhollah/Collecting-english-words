@@ -84,7 +84,14 @@ subtle |  not easy to notice or understand unless you pay careful attention | yo
 stubborn|determined not to change your mind, even when people think you are being unreasonable|he was too stubborn to admit that he was worng| Why are you so stubborn?
 admit|to agree unwillingly that something is true or that someone else is right|You may not like her, but you have to admit that she’s good at her job.|I must admit, I didn’t actually do anything to help her.
 spare|not being used or not needed at the present time|we have a spare in the trunk.| a spare bass guitar line.
-
+folk|a specific group of people, distinguished by common nationality, background, or style of life.|most of rich folk lives here.|Thanks to the folks at NBC.
+grumpy|bad-tempered and easily annoyed|you are grumpy old man.|Come back and see me when you're less grumpy.
+grapple|to fight or struggle with someone, holding them tightly.|the goverment is grappling with inflation.|Two men grappled with a guard at the door.
+inflation|a continuing increase in prices, or the rate at which prices increase|Inflation is now at over 16%.|Too much government borrowing can lead to inflation.
+grudge|a feeling of dislike for someone because you cannot forget that they harmed you in the past| I always feel she holds a grudge against me|Is there anyone who might have had a grudge against her?
+hustle|	to make someone move quickly, especially by pushing them roughly|	I was hustled out of the building by a couple of security men.|	they hustled to finish the task on time.
+hostile|	angry and deliberately unfriendly towards someone, and ready to argue with them	|Southampton fans gave their former coach a hostile reception.	|the boy feels hostile towards his father.
+construe|	to comprehend or explain the meaning or intention of; assign a meaning to; interpret.|	comments that could be construed as sexist|	they construcedmy words as cirtical and hostile.
 
 
 
