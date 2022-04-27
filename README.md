@@ -92,7 +92,14 @@ grudge|a feeling of dislike for someone because you cannot forget that they harm
 hustle|	to make someone move quickly, especially by pushing them roughly|	I was hustled out of the building by a couple of security men.|	they hustled to finish the task on time.
 hostile|	angry and deliberately unfriendly towards someone, and ready to argue with them	|Southampton fans gave their former coach a hostile reception.	|the boy feels hostile towards his father.
 construe|	to comprehend or explain the meaning or intention of; assign a meaning to; interpret.|	comments that could be construed as sexist|	they construcedmy words as cirtical and hostile.
-
+idiot|a stupid person or someone who has done something stupid|I smile like an idiot when i'm talking to you.|It was all your fault, you idiot.
+immunity|the state or right of being protected from particular laws or from unpleasant things|the caccine provides longer immunity against flu.|They were granted immunity from prosecution.
+narrow|measuring only a small distance from one side to the other, especially in relation to the length|a long narrow road|The stairs were very narrow.
+lane| a narrow road in the countryside |the police opened a lane through the crowd and let us pass.|a quiet country lane
+liable|legally responsible for the cost of something|he claimed , he was not liable for his wife's debts.|You’re more liable to injury when you don’t get regular exercise.
+debt| a sum of money that a person or organization owes|She had debts of over £100,000.|The band will be in debt to the record company for years.
+obliterate|to destroy something completely so that nothing remains|the bomb nearly obliterate the city.|Hiroshima was nearly obliterated by the atomic bomb.
+promenade|a wide road next to the beach, where people can walk for pleasure|we look a promenade along the canal after sunday dinner|This pier was not a promenade for me.
 
 
 
