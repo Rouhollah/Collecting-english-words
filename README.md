@@ -100,7 +100,9 @@ liable|legally responsible for the cost of something|he claimed , he was not lia
 debt| a sum of money that a person or organization owes|She had debts of over £100,000.|The band will be in debt to the record company for years.
 obliterate|to destroy something completely so that nothing remains|the bomb nearly obliterate the city.|Hiroshima was nearly obliterated by the atomic bomb.
 promenade|a wide road next to the beach, where people can walk for pleasure|we look a promenade along the canal after sunday dinner|This pier was not a promenade for me.
-
+fall|to move or drop down from a higher position to a lower position|The book fell from his hands.|the tree falls.
+scatter| if someone scatters a lot of things, or if they scatter, they are thrown or dropped over a wide area in an irregular way|the wind scattered the dry fallen leaves.|Scatter the onions over the fish.
+scratch|to rub your skin with your nails because it feels uncomfortable|the cat scratched the living room carpet.|John yawned and scratched his leg.
 
 
 
