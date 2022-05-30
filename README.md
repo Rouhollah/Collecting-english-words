@@ -103,7 +103,11 @@ promenade|a wide road next to the beach, where people can walk for pleasure|we l
 fall|to move or drop down from a higher position to a lower position|The book fell from his hands.|the tree falls.
 scatter| if someone scatters a lot of things, or if they scatter, they are thrown or dropped over a wide area in an irregular way|the wind scattered the dry fallen leaves.|Scatter the onions over the fish.
 scratch|to rub your skin with your nails because it feels uncomfortable|the cat scratched the living room carpet.|John yawned and scratched his leg.
-
+severity | severe problems, injuries, illnesses etc are very bad or very serious|he risk and severity of sunborn depend on he body's natural skin color.|His injuries were quite severe.
+sensation|a feeling that you get from one of your five senses, especially the sense of touch|I experienced no sensation in my left foot. |One sign of a heart attack is a tingling sensation in the left arm.
+smuggle|to take something or someone illegally from one country to another|if you try to smuggle drug you are stupid.|The guns were smuggled across the border.
+slope| a surface of which one end or side is at a higher level than another; a rising or falling surface.|the house builders slopped the roof...|the roof should have a slope sufficient for proper drainage
+soak | if you soak something, or if you let it soak, you keep it covered with a liquid for a period of time, especially in order to make it softer or easier to clean |Soak the clothes in cold water.|soak the beans overnight in water
 
 
 
